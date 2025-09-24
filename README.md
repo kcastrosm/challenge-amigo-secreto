@@ -1,30 +1,45 @@
 <body>  
-  <header>
-   <h1>🎁 😎Challenge Amigo Secreto<h1>
+  <h1>🎁 😎Challenge Amigo Secreto</h1>
 
- <section>
+ <p>
    Este es un desafío de la formación Principiante en Programación de Alura LATAM y Oracle y consiste en crear una aplicación web simple y divertida para realizar el sorteo de amigos secretos.
 
- <section>
+ </p>
+
+<p>
 ✨ Características
-•	Agregar amigos a la lista
-•	Sorteo aleatorio sin repetición de amigos
-•	Reinicio automático del juego
- <section>
+<ul>	<li> Agregar amigos a la lista </li>	
+<li> Sorteo aleatorio sin repetición de amigos </li>	
+<li> Reinicio automático del juego </ul> </li>		
+ </p>
    
-🛠️ Tecnologías utilizadas
-•	HTML 
-•	CSS 
-•	JavaScript 
+<p>
+  🛠️ Tecnologías utilizadas
+<ul>	<li> HTML </li>	
+<li> CSS </li>	
+<li> JavaScript </ul> </li>	
+ </p>
+
+ <p>
 🚀 Cómo usar
-1.	Agrega amigos: escribe uno a uno los nombres de tus amigos en el campo de texto y haz clic en el botón "Añadir"
-2.	Realiza el sorteo: haz clic en "Sortear amigo" para obtener un resultado aleatorio
-3.	Reinicia el juego: el sistema se reiniciará automáticamente cuando todos los amigos hayan sido sorteados
+ </br>
+</br> 1.	Agrega amigos: escribe uno a uno los nombres de tus amigos en el campo de texto y haz clic en el botón "Añadir"
+</br> 2.	Realiza el sorteo: haz clic en "Sortear amigo" para obtener un resultado aleatorio
+</br> 3.	Reinicia el juego: el sistema se reiniciará automáticamente cuando todos los amigos hayan sido sorteados
+    </p>
+
+ <p>   
 🔧 Instalación
-1.	Clona o descarga este repositorio
-2.	Abre el archivo index.html en tu navegador
-3.	¡Comienza a usar la aplicación!
+</br>
+</br> 1.	Clona o descarga este repositorio
+</br> 2.	Abre el archivo index.html en tu navegador
+</br> 3.	¡Comienza a usar la aplicación!
+    </p>
+    
+<p>
 📝 Notas
-•	Los nombres se validan para evitar nombres repetidos
-•	Cada amigo solo puede ser sorteado una vez por sorteo
-•	Se puede ingresar un mínimo de 3 amigos para participar
+<ul>	<li> Los nombres se validan para evitar nombres repetidos </li>	
+<li>	Cada amigo solo puede ser sorteado una vez por sorteo </li>	
+<li>	Se puede ingresar un mínimo de 3 amigos para participar </li>	
+ </p>
+</body>
